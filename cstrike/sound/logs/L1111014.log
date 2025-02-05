@@ -1,0 +1,309 @@
+L 11/11/2012 - 13:11:27: Log file started (file "logs\L1111014.log") (game "cstrike") (version "48/1.1.2.6/5758")
+L 11/11/2012 - 13:11:30: World triggered "Round_Start"
+L 11/11/2012 - 13:11:33: "MxLoL<1><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:11:34: [DPROTO]: Client 1 - Set AuthIdType 8 [dproto]; pClient = 066D64B8
+L 11/11/2012 - 13:11:34: "Biel-oGrande<2><STEAM_ID_LAN><>" connected, address "187.46.134.188:27005"
+L 11/11/2012 - 13:11:35: "MxLoL<1><STEAM_ID_LAN><>" joined team "CT"
+L 11/11/2012 - 13:11:35: [DPROTO]: Client 2 - Set AuthIdType 8 [dproto]; pClient = 066DB4D0
+L 11/11/2012 - 13:11:35: "Fx<3><STEAM_ID_LAN><>" connected, address "187.21.52.66:64257"
+L 11/11/2012 - 13:11:39: "Fx<3><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:11:40: "Biel-oGrande<2><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:11:40: "MxLoL<1><STEAM_ID_LAN><>" triggered "amx_tsay" (text "") (color "branco")
+L 11/11/2012 - 13:11:40: "Fx<3><STEAM_ID_LAN><>" joined team "CT"
+L 11/11/2012 - 13:11:42: "Biel-oGrande<2><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:11:45: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "pow matheus") (color "branco")
+L 11/11/2012 - 13:11:50: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "pq ta caindo ?") (color "branco")
+L 11/11/2012 - 13:11:57: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "saco de areia"
+L 11/11/2012 - 13:12:10: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "matheus aki tem bunny hop nao ?") (color "branco")
+L 11/11/2012 - 13:12:11: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "tem as sma ae???"
+L 11/11/2012 - 13:12:42: "Fx<3><STEAM_ID_LAN><CT>" say "/comprar"
+L 11/11/2012 - 13:12:50: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCAHE1280756'
+L 11/11/2012 - 13:12:50: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066E04E8
+L 11/11/2012 - 13:12:50: "Malon<4><STEAM_0:0:942529954><>" connected, address "177.96.233.237:35737"
+L 11/11/2012 - 13:12:59: "Malon<4><STEAM_0:0:942529954><>" entered the game
+L 11/11/2012 - 13:13:03: "Malon<4><STEAM_0:0:942529954><CT>" joined team "CT"
+L 11/11/2012 - 13:13:05: "Fx<3><STEAM_ID_LAN><CT>" say "uia"
+L 11/11/2012 - 13:13:19: "Fx<3><STEAM_ID_LAN><CT>" say "malon KKK"
+L 11/11/2012 - 13:13:44: "Malon<4><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:13:51: "Malon<4><STEAM_0:0:942529954><CT>" say "k"
+L 11/11/2012 - 13:14:27: "Malon<4><STEAM_0:0:942529954><CT>" say "fx = gustavo ?"
+L 11/11/2012 - 13:14:29: "Fx<3><STEAM_ID_LAN><CT>" say "s"
+L 11/11/2012 - 13:14:35: "Fx<3><STEAM_ID_LAN><CT>" say "/comprar"
+L 11/11/2012 - 13:14:40: "Malon<4><STEAM_0:0:942529954><CT>" say "nao compra pipa"
+L 11/11/2012 - 13:14:45: "Malon<4><STEAM_0:0:942529954><CT>" say "/compra"
+L 11/11/2012 - 13:14:50: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "cabo grana e agora>>>????"
+L 11/11/2012 - 13:15:01: "Malon<4><STEAM_0:0:942529954><CT>" say "nao quer compra pipa"
+L 11/11/2012 - 13:15:09: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "/comprar"
+L 11/11/2012 - 13:15:14: "Malon<4><STEAM_0:0:942529954><CT>" say "tem como buna"
+L 11/11/2012 - 13:15:25: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "joga uma pipa pra min"
+L 11/11/2012 - 13:15:27: "Malon<4><STEAM_0:0:942529954><CT>" changed name to "Bad Boy"
+L 11/11/2012 - 13:15:39: "Bad Boy<4><STEAM_0:0:942529954><CT>" changed name to "BadBoy"
+L 11/11/2012 - 13:15:39: Kick: "BadBoy<4><STEAM_0:0:942529954><>" was kicked by "Console" (message ""Acesso definido so para Administradores."")
+L 11/11/2012 - 13:15:39: "BadBoy<4><STEAM_0:0:942529954><CT>" disconnected
+L 11/11/2012 - 13:15:42: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCAHE1280756'
+L 11/11/2012 - 13:15:42: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066E04E8
+L 11/11/2012 - 13:15:42: "BadBoy<5><STEAM_0:0:942529954><>" connected, address "177.96.233.237:35737"
+L 11/11/2012 - 13:15:43: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "me da 1 paipa"
+L 11/11/2012 - 13:16:06: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCAHE1280756'
+L 11/11/2012 - 13:16:06: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066E04E8
+L 11/11/2012 - 13:16:06: "BadBoy<6><STEAM_0:0:942529954><>" connected, address "177.96.233.237:35737"
+L 11/11/2012 - 13:16:16: "BadBoy<6><STEAM_0:0:942529954><>" entered the game
+L 11/11/2012 - 13:16:28: "BadBoy<6><STEAM_0:0:942529954><CT>" joined team "CT"
+L 11/11/2012 - 13:18:44: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:18:52: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:18:55: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:19:01: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:19:09: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:19:25: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:20:21: "BadBoy<6><STEAM_0:0:942529954><CT>" say "comendo"
+L 11/11/2012 - 13:21:24: "BadBoy<6><STEAM_0:0:942529954><CT>" say "po"
+L 11/11/2012 - 13:21:28: "Fx<3><STEAM_ID_LAN><CT>" say "k"
+L 11/11/2012 - 13:22:12: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:22:22: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:22:31: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:23:16: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:23:37: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:23:42: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:23:52: "Fx<3><STEAM_ID_LAN><CT>" say "/sduerte"
+L 11/11/2012 - 13:23:54: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:24:01: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:24:07: [DPROTO]: TryAuthRevEmu: AuthString = 'CVPO0033003R080BGN '
+L 11/11/2012 - 13:24:07: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066E5500
+L 11/11/2012 - 13:24:07: "ZCPPlayer<7><STEAM_0:0:2074219697><>" connected, address "107.20.130.142:46613"
+L 11/11/2012 - 13:24:18: [DPROTO]: Client 4 - Set AuthIdType 8 [dproto]; pClient = 066E5500
+L 11/11/2012 - 13:24:18: "c360qtool<8><STEAM_ID_LAN><>" connected, address "50.19.161.120:41457"
+L 11/11/2012 - 13:24:28: [DPROTO]: TryAuthRevEmu: AuthString = 'CVPO0033003R080BGN '
+L 11/11/2012 - 13:24:28: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066E5500
+L 11/11/2012 - 13:24:28: "ZCPPlayer<9><STEAM_0:0:2074219697><>" connected, address "107.20.130.142:41299"
+L 11/11/2012 - 13:24:37: [DPROTO]: Client 4 - Set AuthIdType 8 [dproto]; pClient = 066E5500
+L 11/11/2012 - 13:24:37: "c360qtool<10><STEAM_ID_LAN><>" connected, address "50.19.161.120:43657"
+L 11/11/2012 - 13:25:43: "MxLoL<1><STEAM_ID_LAN><>" triggered "amx_tsay" (text "JA VOLTO") (color "branco")
+L 11/11/2012 - 13:25:48: "MxLoL<1><STEAM_ID_LAN><>" triggered "amx_tsay" (text "VO XAMAR O PESSOAL") (color "branco")
+L 11/11/2012 - 13:25:51: "MxLoL<1><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:26:27: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "laggggg do carai"
+L 11/11/2012 - 13:27:06: [DPROTO]: TryAuthRevEmu: AuthString = 'CVPO0033003R080BGN '
+L 11/11/2012 - 13:27:06: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066D14A0
+L 11/11/2012 - 13:27:06: "ZCPPlayer<11><STEAM_0:0:2074219697><>" connected, address "107.20.130.142:42346"
+L 11/11/2012 - 13:27:12: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 066D14A0
+L 11/11/2012 - 13:27:12: "c360qtool<12><STEAM_ID_LAN><>" connected, address "107.20.130.142:40050"
+L 11/11/2012 - 13:27:13: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 066D14A0
+L 11/11/2012 - 13:27:13: "gotenzdb www.xplodgames.net<13><STEAM_0:0:48037022><>" connected, address "189.110.202.29:27005"
+L 11/11/2012 - 13:27:13: "gotenzdb www.xplodgames.net<13><STEAM_0:0:48037022><>" STEAM USERID validated
+L 11/11/2012 - 13:27:40: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 066D14A0
+L 11/11/2012 - 13:27:40: "gotenzdb www.xplodgames.net<14><STEAM_0:0:48037022><>" connected, address "189.110.202.29:27005"
+L 11/11/2012 - 13:27:41: "gotenzdb www.xplodgames.net<14><STEAM_0:0:48037022><>" STEAM USERID validated
+L 11/11/2012 - 13:27:51: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:28:00: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:28:13: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:28:31: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:28:38: "Biel-oGrande<2><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:28:42: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:29:02: "Fx<3><STEAM_ID_LAN><CT>" say "/suerte"
+L 11/11/2012 - 13:29:24: "Biel-oGrande<2><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:29:24: [DPROTO]: Client 1 - Set AuthIdType 8 [dproto]; pClient = 066D64B8
+L 11/11/2012 - 13:29:24: "Biel-oGrande<15><STEAM_ID_LAN><>" connected, address "187.46.134.188:27005"
+L 11/11/2012 - 13:29:30: "Biel-oGrande<15><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:29:32: "Biel-oGrande<15><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:30:01: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 066D14A0
+L 11/11/2012 - 13:30:01: "A pipa do Vovo nao sobe maisMx<16><STEAM_ID_LAN><>" connected, address "177.96.233.237:42853"
+L 11/11/2012 - 13:30:28: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "marlon") (color "branco")
+L 11/11/2012 - 13:30:36: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "cade o matheus ?") (color "magenta")
+L 11/11/2012 - 13:30:41: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 066D14A0
+L 11/11/2012 - 13:30:41: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><>" connected, address "177.96.233.237:42853"
+L 11/11/2012 - 13:30:43: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 066E5500
+L 11/11/2012 - 13:30:43: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><>" connected, address "189.110.202.29:27005"
+L 11/11/2012 - 13:30:44: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><>" STEAM USERID validated
+L 11/11/2012 - 13:30:53: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><>" entered the game
+L 11/11/2012 - 13:30:58: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" joined team "CT"
+L 11/11/2012 - 13:31:05: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:31:16: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:31:19: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "como pego"
+L 11/11/2012 - 13:31:20: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "pipa"
+L 11/11/2012 - 13:31:24: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><>" triggered "amx_tsay" (text "O") (color "branco")
+L 11/11/2012 - 13:31:27: "Fx<3><STEAM_ID_LAN><CT>" say "compra"
+L 11/11/2012 - 13:31:28: "BadBoy<6><STEAM_0:0:942529954><>" triggered "amx_tsay" (text "apara") (color "branco")
+L 11/11/2012 - 13:31:32: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "compra"
+L 11/11/2012 - 13:31:33: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "q"
+L 11/11/2012 - 13:31:34: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "kk"
+L 11/11/2012 - 13:31:40: "Fx<3><STEAM_ID_LAN><>" triggered "amx_tsay" (text "compra ou apara") (color "branco")
+L 11/11/2012 - 13:31:46: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "to aki"
+L 11/11/2012 - 13:31:48: "Fx<3><STEAM_ID_LAN><CT>" say "aki bichin"
+L 11/11/2012 - 13:31:52: "Fx<3><STEAM_ID_LAN><CT>" say "o goten"
+L 11/11/2012 - 13:31:56: "Fx<3><STEAM_ID_LAN><CT>" say "vem aki"
+L 11/11/2012 - 13:31:58: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:31:59: "Fx<3><STEAM_ID_LAN><CT>" say "perto da min"
+L 11/11/2012 - 13:32:02: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "acde o dexter"
+L 11/11/2012 - 13:32:03: "Fx<3><STEAM_ID_LAN><CT>" say "sou a banana"
+L 11/11/2012 - 13:32:09: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "deu certo o servidor ?"
+L 11/11/2012 - 13:32:11: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "dps aumento os slot"
+L 11/11/2012 - 13:32:14: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "sim"
+L 11/11/2012 - 13:32:19: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "so q ta meio LAG"
+L 11/11/2012 - 13:32:20: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "ow me ajuda"
+L 11/11/2012 - 13:32:23: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "kero solta pipa"
+L 11/11/2012 - 13:32:25: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "sim vcs mecheram"
+L 11/11/2012 - 13:32:27: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "nas rates"
+L 11/11/2012 - 13:32:31: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "nao"
+L 11/11/2012 - 13:32:31: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "desconfiguro"
+L 11/11/2012 - 13:32:35: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "sim"
+L 11/11/2012 - 13:32:36: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "negativo"
+L 11/11/2012 - 13:32:37: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "ta tudo errado"
+L 11/11/2012 - 13:32:41: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "acabei de ver"
+L 11/11/2012 - 13:32:55: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "so arruma as rates"
+L 11/11/2012 - 13:32:59: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "nao tira as config"
+L 11/11/2012 - 13:33:06: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "porq senao nao funfa"
+L 11/11/2012 - 13:33:08: "Fx<3><STEAM_ID_LAN><CT>" say "me kika nao"
+L 11/11/2012 - 13:33:15: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 066EA518
+L 11/11/2012 - 13:33:15: "gml;<19><STEAM_0:1:52750760><>" connected, address "201.89.185.50:27005"
+L 11/11/2012 - 13:33:15: "gml;<19><STEAM_0:1:52750760><>" STEAM USERID validated
+L 11/11/2012 - 13:33:26: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:33:34: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "aa"
+L 11/11/2012 - 13:33:36: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:33:38: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "deixa eu solta"
+L 11/11/2012 - 13:33:44: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:33:49: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 066EA518
+L 11/11/2012 - 13:33:49: "'~FudaShoW~'<20><STEAM_0:1:48026073><>" connected, address "186.216.192.165:27005"
+L 11/11/2012 - 13:33:49: "'~FudaShoW~'<20><STEAM_0:1:48026073><>" STEAM USERID validated
+L 11/11/2012 - 13:33:51: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "ow"
+L 11/11/2012 - 13:33:52: "BadBoy<6><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:33:56: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "resolve o lag la"
+L 11/11/2012 - 13:34:01: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "porq assim n da"
+L 11/11/2012 - 13:34:11: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "q leg"
+L 11/11/2012 - 13:34:13: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "filho"
+L 11/11/2012 - 13:34:14: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "ta normal"
+L 11/11/2012 - 13:34:18: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" say "ake ta lag"
+L 11/11/2012 - 13:34:21: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "compra 1 pc"
+L 11/11/2012 - 13:35:12: Kick: "Fx<3><STEAM_ID_LAN><>" was kicked by "Console" (message ""Kickeado por pegado!")
+L 11/11/2012 - 13:35:12: "Fx<3><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:35:35: "BadBoy<6><STEAM_0:0:942529954><CT>" disconnected
+L 11/11/2012 - 13:35:35: "A pipa do Vovo nao sobe maisMx<17><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:36:01: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "bugo o serve"
+L 11/11/2012 - 13:36:07: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" say "?"
+L 11/11/2012 - 13:36:18: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "flws"
+L 11/11/2012 - 13:36:23: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "ou para o outro"
+L 11/11/2012 - 13:36:59: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 066D14A0
+L 11/11/2012 - 13:36:59: "gml;<21><STEAM_0:1:52750760><>" connected, address "201.89.185.50:27005"
+L 11/11/2012 - 13:36:59: "gml;<21><STEAM_0:1:52750760><>" STEAM USERID validated
+L 11/11/2012 - 13:37:09: "gml;<21><STEAM_0:1:52750760><>" entered the game
+L 11/11/2012 - 13:37:13: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "serve ta bugado vei"
+L 11/11/2012 - 13:37:15: "gml;<21><STEAM_0:1:52750760><CT>" joined team "CT"
+L 11/11/2012 - 13:37:16: "gotenzdb www.xplodgames.net<18><STEAM_0:0:48037022><CT>" disconnected
+L 11/11/2012 - 13:37:29: "gml;<21><STEAM_0:1:52750760><CT>" say "como joga `-"
+L 11/11/2012 - 13:37:38: "gml;<21><STEAM_0:1:52750760><CT>" changed name to "Thiago ;1"
+L 11/11/2012 - 13:37:50: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCAHE1280756'
+L 11/11/2012 - 13:37:50: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 066DB4D0
+L 11/11/2012 - 13:37:50: "BadBoy<22><STEAM_0:0:942529954><>" connected, address "177.97.47.163:35737"
+L 11/11/2012 - 13:37:58: "BadBoy<22><STEAM_0:0:942529954><>" entered the game
+L 11/11/2012 - 13:38:05: "BadBoy<22><STEAM_0:0:942529954><CT>" joined team "CT"
+L 11/11/2012 - 13:38:15: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:19: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:20: [DPROTO]: Client 3 - Set AuthIdType 8 [dproto]; pClient = 066E04E8
+L 11/11/2012 - 13:38:20: "ZnT.Girls # Kaarina @MasteR<23><STEAM_ID_LAN><>" connected, address "189.54.147.33:54985"
+L 11/11/2012 - 13:38:20: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:21: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:22: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:23: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:24: "Biel-oGrande<15><STEAM_ID_LAN><CT>" say "entra ae serve sem bugs 200.98.71.148:27038"
+L 11/11/2012 - 13:38:40: [DPROTO]: Client 3 - Set AuthIdType 8 [dproto]; pClient = 066E04E8
+L 11/11/2012 - 13:38:40: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><>" connected, address "189.54.147.33:54985"
+L 11/11/2012 - 13:38:44: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:38:52: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:38:53: "BadBoy<22><STEAM_0:0:942529954><CT>" say "serve ai e copia desse"
+L 11/11/2012 - 13:38:54: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "aee"
+L 11/11/2012 - 13:39:01: "BadBoy<22><STEAM_0:0:942529954><CT>" say "eae"
+L 11/11/2012 - 13:39:07: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "badboy e quem ?"
+L 11/11/2012 - 13:39:12: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "como joga isso"
+L 11/11/2012 - 13:39:16: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "ajuda ai"
+L 11/11/2012 - 13:39:16: "BadBoy<22><STEAM_0:0:942529954><CT>" say "maelon"
+L 11/11/2012 - 13:39:22: "BadBoy<22><STEAM_0:0:942529954><CT>" say "mmarlon"
+L 11/11/2012 - 13:39:24: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "adm do server de jail ?"
+L 11/11/2012 - 13:39:28: "BadBoy<22><STEAM_0:0:942529954><CT>" say "n"
+L 11/11/2012 - 13:39:30: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "como joga ?"
+L 11/11/2012 - 13:39:35: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "adm"
+L 11/11/2012 - 13:39:36: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "hm fico de adm aki qnd ?"
+L 11/11/2012 - 13:39:44: "BadBoy<22><STEAM_0:0:942529954><CT>" say "meu primo"
+L 11/11/2012 - 13:39:49: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "o MxLoL  ?"
+L 11/11/2012 - 13:39:53: "BadBoy<22><STEAM_0:0:942529954><CT>" say_team "s"
+L 11/11/2012 - 13:40:00: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "kd ele =/ pra ele me passar o painel"
+L 11/11/2012 - 13:40:03: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "ele ta ai ?"
+L 11/11/2012 - 13:40:06: [DPROTO]: Client 4 - Set AuthIdType 8 [dproto]; pClient = 066E5500
+L 11/11/2012 - 13:40:06: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><>" connected, address "177.97.47.163:43493"
+L 11/11/2012 - 13:40:06: "BadBoy<22><STEAM_0:0:942529954><CT>" say "n"
+L 11/11/2012 - 13:40:08: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 066EA518
+L 11/11/2012 - 13:40:08: "'~FudaShoW~'<26><STEAM_0:1:48026073><>" connected, address "186.216.192.165:27005"
+L 11/11/2012 - 13:40:08: "'~FudaShoW~'<26><STEAM_0:1:48026073><>" STEAM USERID validated
+L 11/11/2012 - 13:40:12: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "af"
+L 11/11/2012 - 13:40:13: "'~FudaShoW~'<26><STEAM_0:1:48026073><>" entered the game
+L 11/11/2012 - 13:40:15: "'~FudaShoW~'<26><STEAM_0:1:48026073><CT>" joined team "CT"
+L 11/11/2012 - 13:40:26: "BadBoy<22><STEAM_0:0:942529954><CT>" say "/suerte"
+L 11/11/2012 - 13:40:30: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:40:32: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "/suerte"
+L 11/11/2012 - 13:40:32: Kick: "Biel-oGrande<15><STEAM_ID_LAN><>" was kicked by "Console" (message ""Kickeado por pegado!")
+L 11/11/2012 - 13:40:32: "Biel-oGrande<15><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:40:41: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:40:45: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "como solta pipa"
+L 11/11/2012 - 13:41:01: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "em adm"
+L 11/11/2012 - 13:41:02: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "karina"
+L 11/11/2012 - 13:41:06: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "afs"
+L 11/11/2012 - 13:41:08: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "oie"
+L 11/11/2012 - 13:41:08: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "e vc"
+L 11/11/2012 - 13:41:10: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "?"
+L 11/11/2012 - 13:41:11: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "s"
+L 11/11/2012 - 13:41:13: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "kk"
+L 11/11/2012 - 13:41:14: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "e vc e quem kk"
+L 11/11/2012 - 13:41:14: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "OL"
+L 11/11/2012 - 13:41:16: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "LOL"
+L 11/11/2012 - 13:41:19: [DPROTO]: Client 1 - Set AuthIdType 8 [dproto]; pClient = 066D64B8
+L 11/11/2012 - 13:41:19: "Biel-oGrande<27><STEAM_ID_LAN><>" connected, address "187.46.134.188:27005"
+L 11/11/2012 - 13:41:20: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "vai no skype la"
+L 11/11/2012 - 13:41:20: "BadBoy<22><STEAM_0:0:942529954><CT>" say "lol ai"
+L 11/11/2012 - 13:41:25: "Biel-oGrande<27><STEAM_ID_LAN><>" entered the game
+L 11/11/2012 - 13:41:26: "Biel-oGrande<27><STEAM_ID_LAN><CT>" joined team "CT"
+L 11/11/2012 - 13:41:27: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "AJUDA AI ADM"
+L 11/11/2012 - 13:41:28: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "vo colocar perae"
+L 11/11/2012 - 13:41:32: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "thiago"
+L 11/11/2012 - 13:41:38: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "colocar ? eu que vo colocar rum kk"
+L 11/11/2012 - 13:41:39: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "?"
+L 11/11/2012 - 13:41:42: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" say "kk"
+L 11/11/2012 - 13:41:44: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "thiago vem aki na loja"
+L 11/11/2012 - 13:41:45: "Biel-oGrande<27><STEAM_ID_LAN><CT>" say "adm"
+L 11/11/2012 - 13:41:51: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "to indo"
+L 11/11/2012 - 13:42:05: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "to aki"
+L 11/11/2012 - 13:42:06: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "vem"
+L 11/11/2012 - 13:42:08: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "aperta 1 aki"
+L 11/11/2012 - 13:42:09: "Biel-oGrande<27><STEAM_ID_LAN><CT>" say "adm"
+L 11/11/2012 - 13:42:12: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 066EF530
+L 11/11/2012 - 13:42:12: "MicaeL +<28><STEAM_0:0:54236051><>" connected, address "201.19.211.71:27005"
+L 11/11/2012 - 13:42:13: "MicaeL +<28><STEAM_0:0:54236051><>" STEAM USERID validated
+L 11/11/2012 - 13:42:14: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "compra pipa de 75"
+L 11/11/2012 - 13:42:17: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "compro ?"
+L 11/11/2012 - 13:42:19: "Thiago ;1<21><STEAM_0:1:52750760><CT>" say "comprei"
+L 11/11/2012 - 13:42:22: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "vem ca"
+L 11/11/2012 - 13:42:27: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "olha pra la"
+L 11/11/2012 - 13:42:31: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "da um soco"
+L 11/11/2012 - 13:42:33: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "aperta 1 e 1"
+L 11/11/2012 - 13:42:40: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "vai dando soco"
+L 11/11/2012 - 13:42:44: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "calma"
+L 11/11/2012 - 13:42:48: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "ai qnd ela cair"
+L 11/11/2012 - 13:42:56: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "vc espera ela dar alguns giros"
+L 11/11/2012 - 13:43:01: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "e segura o soco"
+L 11/11/2012 - 13:43:05: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" say "compra pipa dnv"
+L 11/11/2012 - 13:43:11: "'~FudaShoW~'<26><STEAM_0:1:48026073><CT>" disconnected
+L 11/11/2012 - 13:43:17: "ZnT.Girls # Kaarina @MasteR<24><STEAM_ID_LAN><CT>" changed name to "Karina"
+L 11/11/2012 - 13:43:21: "BadBoy<22><STEAM_0:0:942529954><CT>" say "aa linha errada"
+L 11/11/2012 - 13:43:25: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><>" triggered "amx_tsay" (text "VO REINIIAR AKE") (color "branco")
+L 11/11/2012 - 13:43:30: [META] ini: Begin re-reading plugins list: c:/game installs/pipa/cs_118/cstrike/addons/metamod/plugins.ini
+L 11/11/2012 - 13:43:30: [META] ini: Read plugin config for: AMX Mod X
+L 11/11/2012 - 13:43:30: [META] ini: Read plugin config for: dproto_EF
+L 11/11/2012 - 13:43:30: [META] ini: Read plugin config for: Booster
+L 11/11/2012 - 13:43:30: [META] ini: Read plugin config for: AntiDlFile
+L 11/11/2012 - 13:43:30: [META] ini: Finished reading plugins list: c:/game installs/pipa/cs_118/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 11/11/2012 - 13:43:30: [META] dll: Updating plugins...
+L 11/11/2012 - 13:43:30: [META] dll: Finished updating 12 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/11/2012 - 13:43:30: "Thiago ;1<21><STEAM_0:1:52750760><CT>" disconnected
+L 11/11/2012 - 13:43:30: "Biel-oGrande<27><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:43:30: "BadBoy<22><STEAM_0:0:942529954><CT>" disconnected
+L 11/11/2012 - 13:43:30: "Karina<24><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:43:30: "A pipa do Vovo nao sobe maisMx<25><STEAM_ID_LAN><CT>" disconnected
+L 11/11/2012 - 13:43:30: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/11/2012 - 13:43:30: World triggered "Round_End"
+L 11/11/2012 - 13:43:30: Log file closed
